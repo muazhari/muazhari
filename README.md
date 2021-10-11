@@ -14,7 +14,7 @@ I am a undergraduate computer science student in Binus University.
 
 - 👨🏻‍💻 I’m currently trying to learn something that I can;
 - 💬 Ask me about anything, I am happy to respond;
-- 📫 How to reach me: send message at my linked in;
+- 📫 How to reach me: send me message at my LinkedIn;
 - 📝 [Resume](https://1drv.ms/b/s!AuaWqJu4FEGB4mkEACBpGOfO2YXK?e=BUhj3o).
 
 </br>
