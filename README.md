@@ -15,8 +15,8 @@ I am an undergraduate computer science student in Binus University.
 - 👨🏻‍💻 I’m currently trying to learn something that I can;
 - 💬 Ask me about anything, I am happy to respond;
 - 📫 How to reach me: send me message at my LinkedIn;
-- 📋 My works is divided into individual and organizational repos;
-- 📝 Please see my important works detail here-> [Resume](#).
+- 📋 My works are divided into individual and organizational repos;
+- 📝 Please see my important works detail in [Resume](#).
 
 </br>
 
