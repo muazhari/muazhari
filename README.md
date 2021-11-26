@@ -23,8 +23,7 @@ I am an undergraduate computer science student in Binus University.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Text     28 mins         █████████████████████▓░░░   86.99 % 
-Python   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
