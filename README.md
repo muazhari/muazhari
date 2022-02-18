@@ -25,11 +25,11 @@ I am an undergraduate computer science student in Binus University.
 ```text
 Total: 28 hrs 58 mins
 
-PHP              11 hrs 34 mins  ██████████░░░░░░░░░░░░░░░   39.70 % 
-Java             10 hrs 4 mins   ████████▓░░░░░░░░░░░░░░░░   34.56 % 
-Blade Template   4 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-XML              2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Other            10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+PHP              11 hrs 34 mins  ██████████░░░░░░░░░░░░░░░   39.90 % 
+Java             10 hrs 4 mins   ████████▓░░░░░░░░░░░░░░░░   34.74 % 
+Blade Template   4 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+XML              2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
