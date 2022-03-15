@@ -24,7 +24,8 @@ I am an undergraduate computer science student in Binus University.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+SQL              19 mins         █████████████████░░░░░░░░   67.97 %
+GitIgnore file   9 mins          ████████░░░░░░░░░░░░░░░░░   32.03 %
 ```
 
 <!--END_SECTION:waka-->
