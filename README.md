@@ -23,7 +23,9 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   51 mins         ███████████████████████▓░   94.14 %
+Bash     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
