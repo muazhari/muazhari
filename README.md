@@ -24,9 +24,9 @@ I am an undergraduate computer science student at Binus University.
 
 ```text
 Python             1 hr 39 mins    ████████████████████████░   96.66 %
-YAML               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Docker             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 .env file          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Docker             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
