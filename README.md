@@ -23,7 +23,7 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 3 mins    █████████████████████████   100.00 %
+Python   38 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
