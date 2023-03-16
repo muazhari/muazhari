@@ -23,7 +23,10 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python    57 mins         ████████████████████████▓   98.59 %
+Docker    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Jupyter   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+YAML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
