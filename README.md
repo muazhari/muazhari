@@ -23,11 +23,11 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```text
-Python             11 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.28 %
-TypeScript         10 hrs 12 mins  ██████████▓░░░░░░░░░░░░░░   42.79 %
-SQL                1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-JavaScript         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-SCSS               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python             11 hrs 9 mins   ████████████▒░░░░░░░░░░░░   49.44 %
+TypeScript         10 hrs 12 mins  ███████████▒░░░░░░░░░░░░░   45.19 %
+SQL                42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+JavaScript         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+SCSS               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
