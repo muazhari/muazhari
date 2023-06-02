@@ -22,7 +22,7 @@ I am an undergraduate computer science student at Binus University.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python             26 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.13 %
 TypeScript         12 hrs 40 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
 YAML               2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
