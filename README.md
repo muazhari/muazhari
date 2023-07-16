@@ -23,11 +23,11 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 11 mins   ████████████████████▓░░░░   82.03 %
-YAML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Docker       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-.env file    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+TypeScript   6 hrs 51 mins   ███████████████████████░░   91.92 %
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+YAML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Docker       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+.env file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
