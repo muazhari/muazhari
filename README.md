@@ -23,11 +23,9 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             12 hrs 39 mins  ███████████████████▓░░░░░   78.14 %
-Groovy           1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-YAML             57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Gradle           40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java     1 hr 59 mins    ███████████████████░░░░░░   76.35 %
+YAML     36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
