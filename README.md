@@ -23,8 +23,8 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```txt
-Java   22 mins         ██████████████░░░░░░░░░░░   55.94 %
-YAML   17 mins         ███████████░░░░░░░░░░░░░░   44.06 %
+Java   4 mins          █████████████████████████   99.97 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
