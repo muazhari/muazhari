@@ -23,11 +23,11 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              25 hrs 51 mins  ████████████████████░░░░░   80.21 %
-YAML              1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-SQL               1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Docker            51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-TypeScript        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Java              19 hrs 50 mins  ██████████████████████░░░   87.91 %
+YAML              55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+SQL               31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+TypeScript        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Gradle            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
