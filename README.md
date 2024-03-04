@@ -23,11 +23,11 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   18 hrs 37 mins  █████████████████▒░░░░░░░   68.70 %
-YAML                 4 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Docker               1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-SQL                  1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Bash                 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Go                   16 hrs 55 mins  ██████████████████▒░░░░░░   73.34 %
+YAML                 3 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+SQL                  1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Bash                 17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+.env file            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
