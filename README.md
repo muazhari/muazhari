@@ -23,11 +23,8 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```txt
-Python                31 mins         █████████████████▒░░░░░░░   68.68 %
-Jupyter               9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-.env file             2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-TypeScript            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Nginx Configuration   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python    17 mins         ████████████████░░░░░░░░░   63.61 %
+Jupyter   9 mins          █████████░░░░░░░░░░░░░░░░   36.39 %
 ```
 
 <!--END_SECTION:waka-->
