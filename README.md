@@ -23,11 +23,11 @@ I am an undergraduate computer science student at Binus University.
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter               39 hrs 42 mins  ███████████████████████░░   91.34 %
-Python                3 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Requirements.txt      7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Text                  5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Markdown              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Jupyter               36 hrs 58 mins  █████████████████████▓░░░   86.10 %
+Python                3 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Protocol Buffer       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Makefile              37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Shell Script          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
