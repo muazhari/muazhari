@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=muazhari.muazhari)
 
-I am an undergraduate computer science student at Binus University. 
+I am a software engineer wannabe. 
 
 <img align="right" alt="GIF" src="https://github.com/muazhari/muazhari/blob/main/coding.gif?raw=true" width="408" height="318" />
   
