@@ -23,11 +23,11 @@ I am a software engineer wannabe.
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     4 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   45.90 %
-Docker                     1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-YAML                       1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Jupyter                    59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-.env file                  18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Python             1 hr 52 mins    █████████████████░░░░░░░░   67.65 %
+Jupyter            29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+TypeScript         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Markdown           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+YAML               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
