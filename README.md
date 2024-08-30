@@ -23,7 +23,9 @@ I am a software engineer wannabe.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Jupyter    0 secs          ██████████████████▒░░░░░░   73.20 %
+Markdown   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Python     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 %
 ```
 
 <!--END_SECTION:waka-->
