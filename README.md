@@ -23,11 +23,11 @@ I am a software engineer wannabe.
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter          8 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.58 %
-Python           5 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.76 %
-Java             3 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Go               1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-textmate         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Java             8 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.01 %
+Jupyter          8 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.51 %
+Python           5 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+Go               1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Kotlin           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
