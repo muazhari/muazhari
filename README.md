@@ -23,11 +23,11 @@ I am a software engineer wannabe.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         17 hrs 44 mins  ██████████████░░░░░░░░░░░   56.14 %
-Python             5 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-SCSS               5 hrs 20 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-JavaScript         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Text               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript         19 hrs 7 mins   ██████████████████░░░░░░░   72.06 %
+Python             4 hrs 12 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+SCSS               57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JavaScript         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Markdown           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
