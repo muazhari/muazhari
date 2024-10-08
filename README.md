@@ -23,11 +23,11 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         6 hrs 38 mins   █████████████████▓░░░░░░░   70.27 %
-Python             1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-JSON               50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-JavaScript         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Jupyter            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript         3 hrs 40 mins   ██████████████▒░░░░░░░░░░   57.19 %
+Python             1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+JSON               43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+JavaScript         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Jupyter            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
