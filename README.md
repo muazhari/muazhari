@@ -23,10 +23,11 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 53 mins   ████████████████████████▓   98.51 %
-Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Java              2 hrs 53 mins   ██████████████████▓░░░░░░   74.80 %
+SQL               56 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
