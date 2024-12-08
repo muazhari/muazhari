@@ -23,11 +23,11 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       15 hrs 25 mins  ████████████▓░░░░░░░░░░░░   50.83 %
-Java             14 hrs 26 mins  ████████████░░░░░░░░░░░░░   47.61 %
-JavaScript       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript       15 hrs 32 mins  ██████████████▓░░░░░░░░░░   58.59 %
+Java             10 hrs 37 mins  ██████████░░░░░░░░░░░░░░░   40.05 %
+JavaScript       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JSON             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
