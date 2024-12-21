@@ -23,11 +23,9 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 45 mins    ██████████████▓░░░░░░░░░░   59.15 %
-TypeScript       35 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Other            34 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Other        34 mins         ██████████████▒░░░░░░░░░░   56.88 %
+Java         25 mins         ██████████▒░░░░░░░░░░░░░░   41.64 %
+Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
