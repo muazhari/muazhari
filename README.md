@@ -23,9 +23,7 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        34 mins         ██████████████▒░░░░░░░░░░   56.88 %
-Java         25 mins         ██████████▒░░░░░░░░░░░░░░   41.64 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other   34 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
