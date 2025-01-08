@@ -23,11 +23,7 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-Groovy            15 mins         ████████▓░░░░░░░░░░░░░░░░   34.58 %
-Java              14 mins         ████████▒░░░░░░░░░░░░░░░░   32.76 %
-Markdown          9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-Gradle            5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
