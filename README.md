@@ -23,7 +23,11 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              2 mins          ████████████▓░░░░░░░░░░░░   51.09 %
+Kotlin            2 mins          ███████████▓░░░░░░░░░░░░░   47.08 %
+Properties        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+.env file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
