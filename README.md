@@ -23,11 +23,11 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              5 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   36.01 %
-Go                5 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   35.79 %
-GraphQL           2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
-ApolloGraphQL     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-YAML              33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Java              5 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.16 %
+Go                2 hrs 55 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+GraphQL           2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+ApolloGraphQL     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Gradle            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
