@@ -23,10 +23,7 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-ApolloGraphQL   9 mins          ████████████▓░░░░░░░░░░░░   51.04 %
-Java            4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
-GraphQL         3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
-Go              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
