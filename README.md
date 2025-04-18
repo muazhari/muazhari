@@ -23,11 +23,11 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 3 mins    ███████████████░░░░░░░░░░   59.87 %
-Go                40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-GraphQL           30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-ApolloGraphQL     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-TypeScript        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Java              1 hr 2 mins     ████████████████░░░░░░░░░   64.29 %
+Jupyter           16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Go                10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+GraphQL           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+TypeScript        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
