@@ -23,11 +23,7 @@ I am a software engineer.
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 21 mins    █████████████████████▓░░░   86.44 %
-TOML             8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Markdown         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
