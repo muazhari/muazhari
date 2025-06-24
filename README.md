@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                30 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 %
+Java              24 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
+GraphQL           21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 %
+.env file         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Bash              8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->
