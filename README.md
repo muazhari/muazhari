@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter            17 mins         ██████████████░░░░░░░░░░░   56.56 %
-Markdown           8 mins          ███████░░░░░░░░░░░░░░░░░░   28.48 %
-Text               3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Python             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Requirements.txt   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
