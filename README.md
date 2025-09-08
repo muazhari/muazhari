@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          3 hrs 41 mins   ███████████████████████▒░   93.67 %
-Markdown            12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-JSON                1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-TSConfig            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-DockerIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
