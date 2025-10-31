@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       27 mins         █████████████████████▓░░░   86.25 %
-Markdown         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-SQL              2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
