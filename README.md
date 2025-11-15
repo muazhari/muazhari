@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile     31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-Bash         29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-Go           26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-GraphQL      24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Java         23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
