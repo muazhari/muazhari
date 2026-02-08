@@ -19,10 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML       7 mins          ██████████████▒░░░░░░░░░░   57.93 %
-Python     5 mins          ██████████▒░░░░░░░░░░░░░░   40.86 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
